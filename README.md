@@ -1,4 +1,4 @@
-# Rich Private Key Wallet Finder 
+# Rich Private Key Wallet Finder V2
 
 ----
 
